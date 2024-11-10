@@ -1,1 +1,12 @@
-Atelier intro exploitation binaire CSI Ulaval 2024
+# Formations CSIUL - Automne 2024
+
+Répertoire des documents des formations du CSIUL - Automne 2024. 
+
+Certaines formations sont également disponibles sur notre [chaîne Youtube](https://www.youtube.com/@csiul).
+
+| Date       | Formation                                    | Présentateur                 | :link:                            |
+| :--------: | :------------------------------------------: | :--------------------------: | :-------------------------------: |
+| 2024-09-18 | Introduction à la cybersécurité              | Laurie<br>(mymelody)         | :no_entry_sign:                   | 
+| 2024-10-02 | Introduction au reverse engineering / pwning | Guillaume Pilot<br>(salt)    | :file_folder:`Voir dossier dédié` |
+| 2024-10-09 | Hacking de jeux vidéos                       | Rastislonge                  | :no_entry_sign:                   |
+| 2024-11-06 | Introduction à la cryptographie              | Samuel Paradis<br>(Paradise) | :file_folder:`Voir dossier dédié` |
